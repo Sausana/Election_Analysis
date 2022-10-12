@@ -1,5 +1,7 @@
 # Election_Analysis
+
 Python project
+
 ## Colorado Board of Election employess has given me the tasks to complet the election audit of a recent local congressional election.
 1.Calculate the total number of votes cast
 2.Get a complete list of candidates who received votes.
