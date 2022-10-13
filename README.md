@@ -11,7 +11,7 @@ Python project
 
 ## Resources
 -Data Source:election_results.csv
--Software: Python 3.6.1. Visual studio Code 1.38.1
+
 
 ## Summary
 
